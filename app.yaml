@@ -1,0 +1,5 @@
+kind: wasmer.io/App.v0
+name: epoxy-tls
+package: wasmer/wisp-server@0.0.6
+scaling:
+  mode: single_concurrency
