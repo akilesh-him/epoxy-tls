@@ -1,0 +1,7 @@
+{
+  "name": "epoxy-wisp",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Using prebuilt wasmer/wisp-server'"
+  }
+}
